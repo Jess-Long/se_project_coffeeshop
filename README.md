@@ -13,4 +13,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+**Advanced Features:** Refine features for a more visually appealing experience. Add an online ordering feature to appeal to a wider consumer base.
+**Homepage Layout:** Refine homepage photo placement to ensure seamless user experience.
